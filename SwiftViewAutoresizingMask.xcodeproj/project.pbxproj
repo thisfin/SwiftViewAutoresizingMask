@@ -90,7 +90,7 @@
 				TargetAttributes = {
 					666F9BD31BDDD278008F0A13 = {
 						CreatedOnToolsVersion = 7.1;
-						DevelopmentTeam = C5F44K29U6;
+						DevelopmentTeam = CY25956VB2;
 						LastSwiftMigration = 0800;
 						ProvisioningStyle = Automatic;
 					};
@@ -229,10 +229,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = C5F44K29U6;
+				DEVELOPMENT_TEAM = CY25956VB2;
 				INFOPLIST_FILE = SwiftViewAutoresizingMask/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "cn.itianluo.-";
+				PRODUCT_BUNDLE_IDENTIFIER = win.sourcecode;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -243,10 +244,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = C5F44K29U6;
+				DEVELOPMENT_TEAM = CY25956VB2;
 				INFOPLIST_FILE = SwiftViewAutoresizingMask/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "cn.itianluo.-";
+				PRODUCT_BUNDLE_IDENTIFIER = win.sourcecode;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
